@@ -1,0 +1,13 @@
+:root {
+  /*Primary Colors*/
+  --orange: hsl(26, 100%, 55%);
+  --pale-orange: hsl(25, 100%, 94%);
+
+  /*Secundary Colors*/
+  --very-vark-blue: hsl(220, 13%, 13%);
+  --dark-blue: hsl(219, 9%, 45%);
+  --graysh-blue: hsl(220, 14%, 75%);
+  --light-blue: hsl(223, 64%, 98%);
+  --white: #fff;
+  --black: #000; /*75% opacity*/
+}
