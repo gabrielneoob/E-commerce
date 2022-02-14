@@ -4,4 +4,19 @@
   text-decoration: none;
   list-style: none;
   box-sizing: border-box;
+  font-family: "Kumbh Sans", sans-serif;
+}
+
+body {
+  max-width: 1440px;
+}
+
+#container-principal {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }

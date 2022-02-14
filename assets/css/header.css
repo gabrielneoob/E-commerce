@@ -1,0 +1,30 @@
+.comeco,
+.fim,
+#header {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+#header {
+  border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 0;
+}
+
+#menu-desktop ul {
+  display: flex;
+}
+
+#menu-desktop ul li a {
+  color: var(--dark-blue);
+  padding: 10px 18px;
+  text-transform: capitalize;
+  font-size: 0.9rem;
+  display: inline-block;
+}
+
+.avatar-img {
+  max-width: 50px;
+}
